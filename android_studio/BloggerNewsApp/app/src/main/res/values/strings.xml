@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--app name-->
+    <string name="app_name">Blogger News App</string>
+    <string name="app_copyright">Copyright © 2023 Solodroid Developer. \nAll right reserved</string>
+    <string name="app_share">I would like to share this app with you. Here you can download this app on Google Play</string>
+
+    <!--bottom navigation menu name-->
+    <string name="title_nav_recent">Home</string>
+    <string name="title_nav_category">Category</string>
+    <string name="title_nav_page">Page</string>
+    <string name="title_nav_favorite">Favorite</string>
+
+    <!--network & error message-->
+    <string name="whops">Whoops!</string>
+    <string name="failed_title_text">Whoops!</string>
+    <string name="failed_text">There is a problem with your network or the server is down, try again later.</string>
+    <string name="no_category_found">There doesn\'t seem to be a category available at the moment.</string>
+    <string name="no_search_found">Search not found! if you want to continue the search, please try entering another keyword!</string>
+    <string name="msg_no_item">There doesn\'t seem to be any content available at the moment.</string>
+    <string name="msg_search_input">Please insert keyword!</string>
+    <string name="btn_retry">RETRY</string>
+    <string name="dialog_option_ok">OK</string>
+
+    <!--favorite-->
+    <string name="favorite_add">Add to favorite</string>
+    <string name="favorite_remove">Remove from favorite</string>
+    <string name="msg_favorite_added">Added to favorite</string>
+    <string name="msg_favorite_removed">Removed from favorite</string>
+    <string name="txt_no_favorite">Add to this favorite</string>
+    <string name="msg_no_favorite">Use the favorite icon to save posts and more as you search</string>
+
+    <!--action menu name-->
+    <string name="title_menu_more_options">More options</string>
+    <string name="title_menu_favorite">Favorite</string>
+    <string name="title_menu_share">Share</string>
+    <string name="title_menu_search">Search</string>
+    <string name="title_menu_more">More</string>
+    <string name="title_menu_font_size">Font Size</string>
+    <string name="title_menu_launch">View on Site</string>
+    <string name="title_menu_report">Report this</string>
+    <string name="title_menu_feedback">Send feedback</string>
+    <string name="search_hint">Search&#8230;</string>
+
+    <!--font size name -->
+    <string name="title_dialog_font_size">Select Font Size</string>
+    <string name="font_size_xsmall">Extra Small</string>
+    <string name="font_size_small">Small</string>
+    <string name="font_size_medium">Medium</string>
+    <string name="font_size_large">Large</string>
+    <string name="font_size_xlarge">Extra Large</string>
+
+    <!--settings and others-->
+    <string name="txt_title_settings">Settings</string>
+    <string name="title_setting_theme">Dark Mode</string>
+    <string name="sub_title_setting_theme">Better eyesight and power saving</string>
+    <string name="content_description">TODO</string>
+
+    <!--redirect if app suspended-->
+    <string name="redirect_title">New App Updates</string>
+    <string name="redirect_message">This application has expired and is no longer used, press the button below to download and install the latest update of this application.</string>
+    <string name="redirect_button">Download Update Now</string>
+    <string name="redirect_error">Whoops! there is problem with the url, try again later</string>
+
+    <!--settings sections-->
+    <string name="title_settings">Settings</string>
+    <string name="setting_section_general_title">General</string>
+    <string name="setting_section_general_subtitle">Theme, text size and notifications</string>
+    <string name="setting_section_cache_title">Cache</string>
+    <string name="setting_section_cache_subtitle">Clear caches, search history</string>
+    <string name="setting_section_privacy_title">Privacy</string>
+    <string name="setting_section_privacy_subtitle">Privacy policy, terms, publisher info</string>
+    <string name="setting_section_about_title">About</string>
+    <string name="setting_section_about_subtitle">Build version, rate, share</string>
+
+    <!--settings name-->
+    <string name="title_settings_dark_theme">Dark Mode</string>
+    <string name="sub_title_settings_theme">Better eyesight and power saving</string>
+    <string name="title_settings_text_size">Text size</string>
+    <string name="sub_title_settings_text_size">Preferred text size for content description</string>
+    <string name="title_settings_notification">Push Notification</string>
+    <string name="sub_title_settings_notification">Manage push notification settings</string>
+    <string name="title_settings_clear_cache">Clear Cache</string>
+    <string name="sub_settings_clear_cache_start">Free up</string>
+    <string name="sub_settings_clear_cache_end">of space</string>
+    <string name="msg_cache_cleared">Cache has been cleared</string>
+    <string name="title_settings_clear_search_history">Clear search history</string>
+    <string name="msg_search_history_cleared">Search history cleared successfully&#8230;</string>
+    <string name="msg_search_history_empty">Your search history is empty</string>
+    <string name="title_settings_privacy">Privacy policy</string>
+    <string name="title_settings_terms">Terms &amp; conditions</string>
+    <string name="title_settings_publisher_info">Publisher info</string>
+    <string name="title_settings_rate">Rate us</string>
+    <string name="title_settings_share">Share to friends</string>
+    <string name="title_settings_more_apps">More apps</string>
+    <string name="title_settings_about">About</string>
+    <string name="msg_about_version">Version</string>
+
+    <!--exit dialog-->
+    <string name="press_again_to_exit">Press again to exit</string>
+    <string name="exit_message">Do you want to exit the app?</string>
+    <string name="btn_dialog_cancel">Cancel</string>
+    <string name="btn_dialog_exit">Exit</string>
+
+    <!--other-->
+    <string name="txt_related">You may also like</string>
+    <string name="title_menu_browser">Open In Browser</string>
+
+</resources>
